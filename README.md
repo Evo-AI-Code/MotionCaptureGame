@@ -1,5 +1,5 @@
-# MotionCaptureGame
-Yanggok HighSchool Festival AI Club Exhibition works.
+# MotionCaptureGame🔥
+Yanggok HighSchool Festival AI Club's Exhibition works. (My works)
 
 # Making Process
 I use the TeachableMachine to create the model, employing 300 images for each class. After obtainig the model, I use tkinter Library to make UI that has pose instruction text on the top, the webcam feed on the middle, the score and the remaining time on the bottom.
