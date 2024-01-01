@@ -5,7 +5,7 @@ Yanggok HighSchool Festival AI Club's Exhibition works. (My works)
 
 # Making Process
 I use the TeachableMachine to create the model, employing 300 images for each class. After obtainig the model, I use tkinter Library to make UI that has pose instruction text on the top, the webcam feed on the middle, the score and the remaining time on the bottom.
-<img width="80%" src="https://user-images.githubusercontent.com/16822641/109461495-913fc480-7aa5-11eb-9d0e-aff762669f98.gif"/>
+
 
 
 
